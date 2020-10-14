@@ -311,7 +311,7 @@ h1, h2, h3, p {
 
 /* calendar */
 
-.calendar {
+/* .calendar {
 	margin-top: 30px;
 }
 
@@ -325,7 +325,7 @@ h1, h2, h3, p {
 
 .calendar-item {
 	margin: 15px;
-}
+} */
 
 /* launches */
 
@@ -381,7 +381,7 @@ h1, h2, h3, p {
 }
 
 /* details */
-
+/* 
 .details-row {
 	display: flex;
 	flex-wrap: wrap;
@@ -408,6 +408,6 @@ h1, h2, h3, p {
 	max-width: 200px;
 	display: block;
 	margin: 25px auto;
-}
+} */
 
 /* end */

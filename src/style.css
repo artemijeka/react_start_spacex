@@ -147,7 +147,7 @@ h1, h2, h3, p {
 } */
 
 /* features */
-
+/* 
 .features {
 	position: relative;
 	max-width: 1230px;
@@ -241,11 +241,11 @@ h1, h2, h3, p {
 		padding-top: 30px;
 		padding-bottom: 0;
 	}
-}
+} */
 
 
 /* footer */
-
+/* 
 .footer {
 	padding: 130px 0;
 	display: flex;
@@ -307,7 +307,7 @@ h1, h2, h3, p {
 	.footer {
 		text-align: center;
 	}
-}
+} */
 
 /* calendar */
 

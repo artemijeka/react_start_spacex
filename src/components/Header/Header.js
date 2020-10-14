@@ -7,11 +7,7 @@ const Header = () => {
 
     <React.Fragment>
       <header className="header">
-        <img
-          src={logo}
-          alt="Logo Space X"
-          className="logo"
-        />
+        <img src={logo} alt="Logo Space X" className="logo" />
         <nav className="main-nav nav">
           <ul className="list">
             <li className="item">
@@ -38,11 +34,8 @@ const Header = () => {
             </li>
           </ul>
         </nav>
-      </header>
-
-      
+      </header>      
     </React.Fragment>
-
 
   );
 }

@@ -14,7 +14,7 @@
 }
 
 .title:after {
-	content: "";
+	content: "Hello world!";
 	display: block;
 	width: 1px;
 	height: 60px;
